@@ -3,10 +3,10 @@ const textConfig = {
   text2: "Em có điều này muốn hỏi chị nhớ phải trả lời thật lòng nhaaa.",
   text3: "Chị thích em có phải không nào ._.",
   text4: "Nếu chị ko trả lời mà thoát ra tức là muốn làm ny em rùi đó nha :v",
-  text5: "Cậu mơ à???",
+  text5: "Em mơ à???",
   text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
+  text7: "lí do chị thích em đi :vvvv",
+  text8: "Gửi cho em <3",
   text9: "Vì em quá là gút luônnnn",
   text10: "Em biết mà ^^ Yêu chị 300.000",
   text11:
